@@ -95,7 +95,7 @@ The lookup also returned domain name server information.
 
 **Ethical and Legal Consideration:** The WHOIS lookup returned terms of use restricting high-volume automated access and certain forms of data collection and redistribution. The lookup was performed as a single educational query. Applicable service terms must be respected when conducting further reconnaissance.
 
-**Evidence:** `screenshots/01-whois.png`
+**Evidence:** `IMG_0430.jpeg`
 
 ### 4.1.2 WhatWeb Technology Identification
 
@@ -118,7 +118,7 @@ The results identified:
 
 The scan also identified other technologies and website-related information, including Google Tag Manager.
 
-**Evidence:** `screenshots/02-whatweb.png`
+**Evidence:** `IMG_0431.jpeg`
 
 ### 4.1.3 DNS Lookup Using Nslookup
 
