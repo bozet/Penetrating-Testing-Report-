@@ -287,7 +287,7 @@ I reviewed the discovered devices, enabled the topology legend, and exported the
 
 The exported topology provides a visual representation of the three discovered devices and their network relationships.
 
-**Evidence:** ![pdf](https://github.com/bozet/Penetrating-Testing-Report-/blob/main/07-network-topology.pdf)
+**Evidence:** [📄 View Network Topology (PDF)](07-network-topology.pdf)
 
 ---
 
