@@ -138,7 +138,7 @@ The result returned:
 
 The resolved IP address matched the address identified by WhatWeb.
 
-**Evidence:** `screenshots/03-nslookup.png`
+**Evidence:** ![nslookup](https://github.com/bozet/Penetrating-Testing-Report-/blob/main/IMG_0432.jpeg)
 
 ### 4.1.4 HTTP Header Inspection Using cURL
 
@@ -161,7 +161,7 @@ The response returned:
 
 This activity demonstrated how HTTP response headers can reveal technical information about a web application.
 
-**Evidence:** `screenshots/04-curl.png`
+**Evidence:** ![curl](https://github.com/bozet/Penetrating-Testing-Report-/blob/main/IMG_0433.jpeg)
 
 ### 4.1.5 Web Application Firewall Detection
 
@@ -181,7 +181,7 @@ The result identified:
 
 This demonstrated how WAF detection tools can identify security technologies used by a website.
 
-**Evidence:** `screenshots/05-wafw00f.png`
+**Evidence:** ![waafwoof](https://github.com/bozet/Penetrating-Testing-Report-/blob/main/IMG_0429.jpeg)
 
 ### 4.1.6 DNS Enumeration Using DNSRecon
 
@@ -212,7 +212,7 @@ DNSRecon identified eight SRV records associated with the domain's autodiscovery
 
 These findings provided a broader view of the domain's publicly available DNS infrastructure.
 
-**Evidence:** `screenshots/06-dnsrecon.png`
+**Evidence:** ![dns](https://github.com/bozet/Penetrating-Testing-Report-/blob/main/IMG_0435.jpeg)
 
 ---
 
